@@ -1,0 +1,116 @@
+body {
+    padding: 0px 4px 0px 0px;
+    border-radius: 3px;
+    text-indent: 20px;
+    width: auto;
+    margin: 0px;
+    font-size: 18px;
+    line-height: 150%;
+    columns: #333333;
+    background-image: url(../images/background-image.jpg);
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.aboutHeading {
+    width: 320px;
+    background:teal;
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.navbarContact {
+    padding-right: 16px;
+}
+
+a {
+    color: gray;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.containerOne {
+    width: 320px;
+    margin: auto 0px auto 0px;
+    padding: auto 5px auto 5px;
+    background: white;
+}
+
+.container {
+    width: 280px;
+    margin: auto 20px 60px 20px;
+    background: white;
+    padding-bottom: 20px;
+}
+
+.container-port {
+    width: 280px;
+    margin: auto 20px 60px 20px;
+    background: white;
+    height: 1440px;
+
+}
+
+h2 {
+    padding-top: 20px;
+    color: teal;
+    text-align: center;
+    padding-right: 20px;
+    font-size: 26px;
+    border-bottom: 1px solid gray;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+#bio-image {
+    position: relative;
+    left: -20px;
+    margin: 10px 5px 10px 5px;
+}
+footer {
+    width: 320px;
+    border-bottom: 35px solid #333333;
+    border-top: 5px solid teal;
+}
+
+.box-one {
+    position: relative;
+    top: 30px;
+}
+
+.box-two {
+    position: relative;
+}
+
+.box-three {
+    position: relative;
+    top: -30px;
+}
+
+.box-four {
+    position: relative;
+    top: -60px;
+}
+
+.box-five {
+    position: relative;
+    top: -90px;
+}
+
+.container-game {
+    width: 240px;
+    background: teal;
+    color: white;
+    position: relative;
+    left: 20px;
+    top: -70px;
+    padding-top: 10px;
+    height: 50px;
+    text-align: center;
+}
